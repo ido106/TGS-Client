@@ -1,0 +1,45 @@
+.Hebrew{
+    float: right;
+    text-align: right;
+}
+
+h1{
+    position: absolute;
+    left: 25%;
+}
+form {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+    padding: 2rem;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+}
+
+form label {
+    margin-bottom: 0.5rem;
+    font-size: 1.2rem;
+}
+
+form input {
+    margin-bottom: 1rem;
+    padding: 0.5rem;
+    font-size: 1.2rem;
+}
+
+form .text-muted {
+    font-size: 0.8rem;
+}
+
+form button {
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+    font-size: 1.2rem;
+    background-color: #4caf50;
+    color: white;
+}

@@ -1,0 +1,80 @@
+.dataQ_bt {
+    float: left;
+}
+
+option {
+    display: block;
+    text-align: right;
+}
+
+.writingContainer {
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
+
+.getAnswer_bt {
+    position: relative;
+    bottom: 0;
+}
+
+.data {
+    height: 75vh;
+}
+
+.templateInput {
+    text-align: center;
+    max-width: 50px;
+    padding:0;
+    margin: 0 5px 0 0;
+    width: min-content;
+}
+
+.templateP {
+    text-align: justify-all;
+    float: right;
+    margin: 0;
+    padding: 0;
+}
+
+.input-container {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+}
+
+input {
+    width: 100%;
+    /*height: 100%;*/
+    float: right;
+    position: relative;
+    border: none;
+    outline: none;
+    margin-bottom: 5px;
+    border-bottom: 1px solid black;
+}
+
+.clearAllCol {
+    padding-left: 0;
+    width: min-content;
+
+}
+
+.addCol {
+    padding-right: 0;
+    width: min-content;
+}
+
+.clearAll_bt {
+    float: right;
+    margin: 0;
+}
+
+.add_bt {
+    float: left;
+    margin: 0;
+}
+
+.inputCol {
+    height: 100%;
+}

@@ -1,0 +1,27 @@
+
+  .right-align {
+    text-align: right;
+  }
+
+  .custom-modal {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .modal-text {
+    font-weight: bold;
+    font-size: 1.2em;
+    text-align: center;
+    margin-bottom: 1em;
+  }
+  
+  .red-button {
+    background-color: #f14646; /* Lighter red color */
+  }
+  
+  .green-button {
+    background-color: rgb(101, 223, 101);
+  }
+
+  

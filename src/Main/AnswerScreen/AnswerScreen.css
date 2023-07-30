@@ -1,0 +1,70 @@
+.tg-header-container {
+  text-align: center;
+}
+
+.getAnswer_bt {
+  margin: 0 auto;
+}
+
+.right-aligned {
+  text-align: right;
+}
+
+.modal-dialog.text-right .modal-content {
+  text-align: right;
+}
+
+.modal-dialog.text-right .modal-header {
+  text-align: center;
+}
+
+.modal-dialog.text-right .modal-body {
+  text-align: right;
+}
+
+.modal-dialog.text-right .modal-footer {
+  text-align: center;
+  justify-content: center;
+}
+
+.modal-dialog.text-right .form-control {
+  text-align: right;
+}
+
+.modal-dialog.text-right .error-message {
+  text-align: right;
+  color: red;
+}
+
+.modal-dialog.text-right .getAnswer_bt {
+  margin: 0 auto;
+  display: block;
+}
+
+.green-button {
+  background-color: green;
+  color: white;
+}
+
+.question-title {
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.solution-title {
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+}
+/*.question-data {*/
+/*  width: 50%;*/
+/*  float: right;*/
+/*}*/
+/*.svg-as-img{*/
+/*  width: 50%;*/
+/*  float: left;*/
+/*}*/
+/*.buttons-data{*/
+/*  !*float: bottom;*!*/
+/*}*/

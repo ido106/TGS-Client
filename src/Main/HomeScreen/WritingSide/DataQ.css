@@ -1,0 +1,9 @@
+.scrollable-list {
+    max-height: 270px; /* Set the desired maximum height */
+    overflow-y: auto; /* Enable vertical scrollbar */
+  }
+  
+  .bold-text {
+    font-weight: bold;
+  }
+  

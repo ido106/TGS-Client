@@ -1,0 +1,64 @@
+.drawingContainer {
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
+
+.drawingTop {
+    width: 100%;
+    height: 75%;
+    min-height: 350px;
+}
+
+.drawingMiddle {
+    width: 100%;
+    height: min-content;
+}
+
+.drawingBottom {
+    width: 100%;
+    height: min-content;
+}
+
+.shape_bt {
+    position: relative;
+    bottom: 0;
+
+}
+
+.details {
+    position: relative;
+    bottom: 0;
+
+}
+
+.svgContainer {
+    width: 100%;
+    height: 75vh;
+    min-height: 350px;
+}
+
+text {
+    font: bold 100% sans-serif;
+}
+
+
+
+
+.form-check-label {
+    position: absolute;
+    right: 30px;
+}
+
+.form-check-input {
+    position: absolute;
+    right: 10px;
+}
+.delete_bt{
+    position: relative;
+    bottom: 0;
+    float: left;
+    text-align: left;
+    left: 0;
+
+}

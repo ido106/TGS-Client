@@ -1,0 +1,40 @@
+.Hebrew{
+    float: right;
+    text-align: right;
+    right: 0;
+}
+
+
+#mainScreen {
+    /*position: relative;*/
+    height: 100% ;
+    width:  100%;
+}
+h1{
+    position: absolute;
+    left: 25%;
+}
+.tab-content{
+    padding-top: 5%;
+    height: 90% ;
+}
+
+.main_tab{
+    /*padding: 5%;*/
+    height: 100% ;
+    width:  100%;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px; /* Adjust margin-top as needed */
+  }
+  
+  .getAnswer_bt {
+    margin: 0 5px; /* Adjust the horizontal margin as needed */
+  }
+
+  .bold-text {
+    font-weight: bold;
+  }

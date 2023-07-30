@@ -1,0 +1,32 @@
+.Hebrew{
+    float: right;
+    text-align: right;
+}
+
+.homeScreen {
+    height: 100%;
+    width: 100%;
+    display: block;
+}
+
+.question-input {
+    margin-bottom: 10px;
+}
+
+.submit-button {
+    margin-top: 10px;
+}
+
+.headRow{
+    width: 100%;
+}
+
+.DrawingQ{
+    height: 100%;
+    width: 60%;
+}
+
+.WritingQ{
+    height: 100%;
+    width: 40%;
+}
